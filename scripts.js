@@ -5,17 +5,16 @@ const category = document.getElementById("category")
 
 const expenseList = document.querySelector("ul")
 
-
 amount.oninput = () => {
   let value = amount.value.replace(/\D/g, "")
 
   value = Number(value) / 100
 
-  amount.value = formatCurrencyBRL(value)
+  amount.value = fomartCurrencyBRL(value)
 }
 
 function fomartCurrencyBRL(value){
-  value = value.toLocalString("pt-BR", {
+  value = value.toLocaleString("pt-BR", {
     style: "currency",
     currency: "BRL",
   })
