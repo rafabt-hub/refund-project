@@ -1,19 +1,51 @@
-Refund
+# Refund 💸
 
-Refund is a simple web application that allows users to calculate reimbursements. Users can add expenses by selecting a name, category, and value. The expenses are then listed, and the total amount is automatically calculated.
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-completed-green)
 
-Features
+A simple web app to calculate expense reimbursements. Built with vanilla HTML, CSS, and JavaScript.
 
-Add expenses with a name, category, and value.
+## ✨ Features
 
-View a list of all added expenses.
+-   **Add expenses:** Input a name, category, and value.
+-   **Live list:** See all added expenses in a clean list.
+-   **Auto-calculation:** The total amount is updated in real-time.
 
-Automatically calculate the total amount of all expenses.
+## 🛠️ Tech Stack
 
-Technologies Used
+-   HTML5
+-   CSS3
+-   JavaScript (DOM Manipulation)
 
-HTML
+## 🚀 Getting Started
 
-CSS
+This is a front-end only project. No complex setup is needed.
 
-JavaScript
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/your-username/refund-project.git
+    ```
+2.  **Open the file:**
+    Navigate to the project folder and open the `index.html` file in your browser.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
+  > Uma aplicação web simples para calcular reembolsos de despesas. Construído com HTML, CSS e JavaScript puros.
+
+  ### ✨ Funcionalidades
+
+  -   **Adicionar despesas:** Insira um nome, categoria e valor.
+  -   **Lista dinâmica:** Visualize todas as despesas adicionadas em tempo real.
+  -   **Cálculo automático:** O valor total é atualizado instantaneamente.
+
+  ### 🚀 Como Executar
+
+  1.  **Clone o repositório:**
+      ```sh
+      git clone https://github.com/your-username/refund-project.git
+      ```
+  2.  **Abra o arquivo:**
+      Navegue até a pasta do projeto e abra o arquivo `index.html` no seu navegador.
