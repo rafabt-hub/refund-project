@@ -32,6 +32,12 @@ This is a front-end only project. No complex setup is needed.
 
 This project is licensed under the MIT License.
 
+---
+
+<details>
+  <summary>🇧🇷 Ver em Português</summary>
+
+  <br>
 
   > Uma aplicação web simples para calcular reembolsos de despesas. Construído com HTML, CSS e JavaScript puros.
 
@@ -49,3 +55,5 @@ This project is licensed under the MIT License.
       ```
   2.  **Abra o arquivo:**
       Navegue até a pasta do projeto e abra o arquivo `index.html` no seu navegador.
+
+</details>
